@@ -1,0 +1,17 @@
+.header {
+  margin: 10px 0;
+
+}
+
+.header h1 {
+  margin-bottom: 10px;
+}
+
+.navigation ul {
+  display: flex;
+  padding: 10px;
+  gap: 20px;
+  border: 1px solid var(--header-border);
+  background: var(--header-bg);
+  list-style: none;
+}
